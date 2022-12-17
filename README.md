@@ -41,6 +41,10 @@
 	<p>🎨 SNS & Portfolio 🎨</p>
 </div>
 <div align=center>
+	<a href="https://www.instagram.com/lil_ho9/">
+    <img src="http://img.shields.io/badge/-Instagram-%23E4405F.svg?style=flat&logo=Instagram&link=https://www.instagram.com/lil_ho9/"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
 	<a href="https://velog.io/@hojinida">
 		<img src="https://img.shields.io/badge/Blog-FF9800?style=flat&logo=Blogger&logoColor=white" />
 	</a>
