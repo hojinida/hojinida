@@ -69,7 +69,9 @@
 </div>
 <div align=center>
 	<img src="https://github-readme-stats.vercel.app/api?username=hojinida&show_icons=true">
+	<br>
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hojinida&layout=compact">
+	<br>
 
 <p>🏆 Baekjoon solved rank 🏆</p>
 	
